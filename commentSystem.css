@@ -1,0 +1,27 @@
+textarea {
+    resize: none;
+    width: 100%;
+}
+
+#comment-input-container {
+    width: 25%;
+    word-wrap: break-word;
+}
+
+#comment-reply-button {
+    margin-bottom: 2rem;
+}
+
+#comment-name {
+    font-size: large;
+    margin-bottom: 0;
+}
+
+#comment-id {
+    font-size: small;
+}
+
+#comment-text {
+    margin-top: 0;
+    margin-bottom: 0;
+}
