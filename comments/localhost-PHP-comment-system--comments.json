@@ -1,0 +1,44 @@
+[
+    {
+        "id": 28,
+        "date": "24.03.2023 04:48:12",
+        "replyToID": null,
+        "name": "Anonymous",
+        "comment": "wazuuup"
+    },
+    {
+        "id": 29,
+        "date": "24.03.2023 04:48:20",
+        "replyToID": null,
+        "name": "jantar",
+        "comment": "sexrn"
+    },
+    {
+        "id": 30,
+        "date": "24.03.2023 04:48:28",
+        "replyToID": null,
+        "name": "Anonymous",
+        "comment": "what??"
+    },
+    {
+        "id": 31,
+        "date": "24.03.2023 04:53:55",
+        "replyToID": null,
+        "name": "Anonymous",
+        "comment": "hello anon!!"
+    },
+    {
+        "id": 32,
+        "date": "24.03.2023 04:54:07",
+        "replyToID": null,
+        "name": "Anonymous",
+        "comment": "asdasddas"
+    },
+    {
+        "id": 33,
+        "date": "24.03.2023 04:56:16",
+        "replyToID": 28,
+        "name": "Anonymous",
+        "comment": "sex"
+    }
+]
